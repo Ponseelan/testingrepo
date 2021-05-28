@@ -13,6 +13,7 @@ public class Helloorld
         System.out.println("First Commit");
         System.out.println("first branch");
         AbstractClass sc=new ConcreteClass();
+        sc.getLotAbstract();
        sc.CheckBaseDynamicBinding();
     }
 }
