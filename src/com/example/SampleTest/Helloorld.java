@@ -11,7 +11,6 @@ public class Helloorld
 {
     public static void main(String[] args) {
         System.out.println("First Commit");
-        System.out.println("first branch");
         AbstractClass sc=new ConcreteClass();
         sc.getLotAbstract();
        sc.CheckBaseDynamicBinding();
